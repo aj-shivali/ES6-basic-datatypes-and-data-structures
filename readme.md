@@ -204,3 +204,10 @@ var set3 = new Set([10, 20, 30, 30, 40, 40]);   // contains [10, 20, 30, 40]
 var set4 = new Set();    //it is an empty set
 ```
 
+## Reference links:
+<ul><li>Geeksforgeeks.com</li>
+<li>https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c</li>
+<li>https://262.ecma-international.org/6.0/#sec-ecmascript-data-types-and-values</li>
+<li>https://www.tutorialspoint.com/es6/es6_collections.htm</li>
+<li>https://www.javascripttutorial.net/javascript-data-types</li>
+<li>https://developers.decoded.africa/index.php/2020/08/03/es6-javascript-data-structures-you-should-know/</li></ul>
