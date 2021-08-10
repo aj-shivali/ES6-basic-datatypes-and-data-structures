@@ -34,7 +34,7 @@ let obj = null;
 console.log(typeof obj); // object
 ```
 
-## The Boolean Type:
+### The Boolean Type:
 
 The Boolean type is a logical datatype that can have only two values <code>true</code> or <code>false</code>. For example, in JavaScript, Boolean conditions are used to decide whether a section of code is to be executed (if statements) or to be repeated (for loops).
 
@@ -44,7 +44,7 @@ if(boolean condition){
     //code to be executed if condition is true.
 }
 ```
-## The Number Type:
+### The Number Type:
 
 The Number type represents both, <code>integers</code> and <code>floating-point</code> numbers in JavaScript. JavaScript uses the  <a href="https://en.wikipedia.org/wiki/IEEE_floating_point">IEEE-754 format</a> to represent them.
 
@@ -54,7 +54,7 @@ let num = 100;  //integer
 let f1 = 12.5;  //floating point
 ```
 
-## The String Type:
+### The String Type:
 
 The String type is a sequence of zero or more characters. A literal string can begin with single quote <code>(')</code> or double quote <code>(")</code>. If a string begins with single quote it must end with a single quote and if a string begins with double quote it must end with a double quote.
 
@@ -65,7 +65,7 @@ let s = "It's a valid string";
 let str = 'I\'m also a string'; // use \ to escape the single quote (')
 ```
 
-## The Object Type:
+### The Object Type:
 
 The Object type is a collection of properties, where each property is defined as a key-value pair.
 
@@ -78,7 +78,7 @@ let person = {          // object having two properties
 };
 ```
 
-## The Symbol Type:
+### The Symbol Type:
 
 The Symbol type is only available with ES6. Symbol is the set of all non-String values that may be used as the key of an Object property. Each Symbol value is unique and immutable and holds an associated value called [Description] that is either undefined or a String value. A symbol value is created by invoking the <code>symbol</code> function.
 
