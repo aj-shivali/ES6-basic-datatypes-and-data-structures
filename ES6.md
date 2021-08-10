@@ -12,7 +12,7 @@ There were six basic datatypes that were available to users with ES5:
 
 After the introduction of ES6 a new datatype has been added to the list of datatypes that were previously available.
 
-- [Symbol](#the-symbol-datatype)
+- [Symbol](#the-symbol-type)
 
 ### The Undefined Datatype:
 
