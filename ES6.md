@@ -94,7 +94,7 @@ console.log(Sym1 === Sym2) // returns "false" because Symbols are guaranteed to 
 
 ## Before ES6 following six basic data structures were available in ES5:
 
-## Arrays
+### Arrays
 
 An array is a collection of items of any data type. JavaScript array is expandable and items can be added as they come without worrying about its size.
 
@@ -105,7 +105,7 @@ let myArray = [3,2,5,0,1,7];    //Using Array class constructor.
 let myArray = new Array(3,2,5,0,1,7);
 ```
 
-## Linked Lists
+### Linked Lists
 
 Linked lists uses a referencing system unlike the indexing system used in the arrays to store the information. Elements are stored in nodes that also contain a pointer to the next node which repeates until all the nodes are linked.
 
@@ -122,7 +122,7 @@ class Node {
 }
 ```
 
-## Stacks
+### Stacks
 
 Stack is a linear data structure in which addition or removal of element follows a particular order i.e. LIFO(Last in First Out) AND FILO(First in Last Out). Functions that can be implemented are: <code>push(), pop(), peek(), isEmpty(), printStack()</code>
 
@@ -139,7 +139,7 @@ class Stack {
 }
 ```
 
-## Queues
+### Queues
 
 A Queue works on the FIFO(First in First Out) principle. Hence, it performs two basic operations that is addition of elements at the end of the queue and removal of elements from the front of the queue. Functions that can be performed on a queue are: <code>enqueue(), dequeue(), front(), isEmpty(), printQueue()</code>
 
@@ -156,7 +156,7 @@ class Queue
 }
 ```
 
-## Trees
+### Trees
 
 A tree is basically a linked list keeping the references of many child nodes in a hierarchical model. Each node can have no more than one parent. 
 
@@ -170,7 +170,7 @@ class TreeNode {
 }
 ```
 
-## Graphs
+### Graphs
 A graph is a non-linear data structure where a node can have zero or more adjacent elements.The connection between two nodes is called edge. Nodes can also be called vertices. Graphs are divided into two categories: <code>Directed and Undirected</code>
 
 ### Example
@@ -188,7 +188,7 @@ class Graph {
 ```
 ## ES6 has introduced two new data structures to JavaScript called <code>maps</code> and <code>sets</code>:
 
-## Maps
+### Maps
 
 The Map object is a simple key/value pair. Keys and values in a map may be primitive or objects.
 
@@ -199,7 +199,7 @@ map.set('name','Mountblue');
 map.get('name'); // Mountblue
 ```
 
-## Sets
+### Sets
 
 The sets are similar to an array data structure with an exception that it cannot contain duplicate values and values can only be unique.
 
