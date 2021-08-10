@@ -211,9 +211,6 @@ var set3 = new Set([10, 20, 30, 30, 40, 40]);   // contains [10, 20, 30, 40]
 var set4 = new Set();    //it is an empty set
 ```
 
-# New features available with ES6
-
-
 ## Reference links:
 <ul><li>Geeksforgeeks.com</li>
 <li>https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c</li>
