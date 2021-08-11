@@ -7,7 +7,7 @@ There were six basic datatypes that were available to users with ES5:
 - [Boolean](#the-boolean-type)
 - [Number](#the-number-type)
 - [String](#the-string-type)
-- [Object](#the-object-type)
+- [Object](#the-object-type) 
 
 
 After the introduction of ES6 a new datatype has been added to the list of datatypes that were previously available.
