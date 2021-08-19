@@ -5,7 +5,7 @@ There were six basic datatypes that were available to users with ES5:
 - [undefined](#the-undefined-datatype)
 - [Null](#the-null-datatype)
 - [Boolean](#the-boolean-type)
-- [Number](#the-number-type)
+- [Number](#the-number-type) 
 - [String](#the-string-type)
 - [Object](#the-object-type)  
 
